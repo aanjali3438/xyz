@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;categoryreg.jsp&apos; to &apos;views&apos;&#x0D;&#x0A;- Original project: &apos;BuildUp&apos;&#x0D;&#x0A;- Destination element: &apos;views&apos;&#x0D;&#x0A;- Original element: &apos;categoryreg.jsp&apos;" description="Copy file" element1="src/main/webapp/WEB-INF/views/categoryreg.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1501138404910" target="/BuildUp/src/main/webapp/WEB-INF/views" units="0" version="1.0"/>
+</session>

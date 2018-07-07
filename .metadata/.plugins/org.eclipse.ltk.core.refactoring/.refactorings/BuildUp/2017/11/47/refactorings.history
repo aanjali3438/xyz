@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BuildUp/src/main/java/com/buildup/controller/LoginControler.java&apos; to &apos;LoginController.java&apos;" description="Rename resource &apos;LoginControler.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/buildup/controller/LoginControler.java" name="LoginController.java" stamp="1511338395316" updateReferences="true"/>
+</session>

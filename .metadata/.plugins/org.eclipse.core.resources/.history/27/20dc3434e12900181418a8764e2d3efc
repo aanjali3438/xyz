@@ -1,0 +1,73 @@
+package com.buildup.dao;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.buildup.model.Post;
+
+import com.google.gson.Gson;
+
+@Repository
+public class PostDao 
+{
+	@Autowired
+    private SessionFactory sessionFactory;
+	
+	public void insert(Post post)
+	{
+		Session session =sessionFactory.openSession();
+		
+		System.out.println("Insert Method Called for postDetails");
+		Transaction tx=session.getTransaction();
+		tx.begin();
+		session.save(post);
+		session.flush();
+		tx.commit();
+		session.close();
+   }
+	public String Retrive()
+	{
+		Session connection=sessionFactory.openSession();
+		Transaction tx=connection.getTransaction();
+		tx.begin();
+	
+		 List listdata = connection.createQuery("FROM Post").list();
+		 Gson gson = new Gson();
+		 String jsonNames = gson.toJson(listdata);
+		 tx.commit();
+		 connection.close();
+	     return jsonNames;
+
+	}
+	
+	public Post UpdatePost(Integer id) 
+	{
+		Session session =sessionFactory.openSession();
+		Transaction tx=session.getTransaction();
+		tx.begin();
+		Post ob=(Post)session.get(Post.class, id);
+		tx.commit();
+		session.close();
+		return ob;
+	}
+	
+	public void LikePost(Integer id) {
+		
+		
+		Session session =sessionFactory.openSession();
+		Transaction tx=session.getTransaction();
+		tx.begin();
+		Post ob=(Post)session.get(Post.class, id);
+		int likes=ob.getLikes()+1;
+		ob.setLikes(likes);
+		session.update(ob);
+		tx.commit();
+		session.close();
+	
+	}
+}

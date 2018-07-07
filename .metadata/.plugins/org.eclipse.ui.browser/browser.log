@@ -1,0 +1,192 @@
+
+Jul 09, 2017 15:16:21.24 NEW SESSION
+Jul 09, 2017 15:16:21.24 [2684:7060:0709/151621.238:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:16:45.87 [2684:7060:0709/151645.876:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:17:33.31 [2684:7060:0709/151733.311:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:19:22.64 [2684:7060:0709/151922.647:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:22:44.27 [2684:7060:0709/152244.276:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:28:58.26 [2684:7060:0709/152858.263:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:38:58.27 [2684:7060:0709/153858.271:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:48:58.28 [2684:7060:0709/154858.280:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 15:58:58.29 [2684:7060:0709/155858.291:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 16:08:58.30 [2684:7060:0709/160858.303:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 16:26:45.68 [2684:7060:0709/162645.677:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 16:42:49.71 [2684:7060:0709/164249.714:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 16:52:49.70 [2684:7060:0709/165249.707:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 17:02:49.73 [2684:7060:0709/170249.730:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 17:12:49.72 [2684:7060:0709/171249.726:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 17:22:49.73 [2684:7060:0709/172249.729:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 17:32:49.73 [2684:7060:0709/173249.731:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 17:42:49.83 [2684:7060:0709/174249.830:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 17:53:36.63 [2684:7060:0709/175336.632:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 18:03:36.63 [2684:7060:0709/180336.634:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 18:18:40.76 [2684:7060:0709/181840.761:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 18:28:40.78 [2684:7060:0709/182840.784:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 18:38:40.80 [2684:7060:0709/183840.802:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 18:48:40.80 [2684:7060:0709/184840.808:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 09, 2017 18:58:40.82 [2684:7060:0709/185840.824:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Aug 22, 2017 15:39:40.51 NEW SESSION
+Aug 22, 2017 15:39:40.51 [5424:7068:0822/153937.674:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Aug 24, 2017 19:48:25.22 NEW SESSION
+Aug 24, 2017 19:48:25.22 [5748:5500:0824/194825.226:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 19:48:54.48 [5748:5500:0824/194854.486:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 19:49:53.83 [5748:5500:0824/194953.835:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 19:51:14.86 [5748:5500:0824/195114.862:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 19:54:39.33 [5748:5500:0824/195439.333:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 20:07:08.68 [5748:5500:0824/200708.684:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 20:17:08.68 [5748:5500:0824/201708.686:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 20:27:08.69 [5748:5500:0824/202708.699:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 20:37:08.70 [5748:5500:0824/203708.702:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 21:10:35.20 [5748:5500:0824/211035.172:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 21:20:35.18 [5748:5500:0824/212035.187:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 21:30:35.19 [5748:5500:0824/213035.190:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 21:48:23.05 [5748:5500:0824/214823.055:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 22:01:45.98 [5748:5500:0824/220145.988:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 22:23:34.72 [5748:5500:0824/222334.722:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 22:33:34.72 [5748:5500:0824/223334.727:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 24, 2017 22:43:34.74 [5748:5500:0824/224334.741:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Aug 26, 2017 10:03:20.75 NEW SESSION
+Aug 26, 2017 10:03:20.75 [6148:364:0826/100320.748:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:03:49.94 [6148:364:0826/100349.939:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:04:47.23 [6148:364:0826/100447.237:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:06:23.52 [6148:364:0826/100623.523:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:10:02.70 [6148:364:0826/101002.702:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:16:50.34 [6148:364:0826/101650.347:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:26:50.35 [6148:364:0826/102650.351:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:36:50.36 [6148:364:0826/103650.362:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Aug 26, 2017 10:46:50.36 [6148:364:0826/104650.367:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Mar 17, 2018 18:43:03.97 NEW SESSION
+Mar 17, 2018 18:43:03.97 [6136:4980:0317/184303.875:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 9
+
+Jun 20, 2018 10:15:05.58 NEW SESSION
+Jun 20, 2018 10:15:05.58 [4912:4904:0620/101505.588:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jun 20, 2018 10:15:54.33 Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+Jun 20, 2018 10:15:54.35 [4912:4904:0620/101554.334:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:16:20.11 [4912:4904:0620/101620.119:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:17:05.54 [4912:4904:0620/101705.545:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:18:40.68 [4912:4904:0620/101840.685:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:22:06.80 [4912:4904:0620/102206.803:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:28:14.50 [4912:4904:0620/102814.506:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:38:14.50 [4912:4904:0620/103814.503:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:43:42.63 [4912:4904:0620/104342.628:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 10:47:02.33 [4912:4904:0620/104702.335:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 10:48:14.50 [4912:4904:0620/104814.506:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 10:51:38.23 [4912:4904:0620/105138.235:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 10:56:22.46 [4912:4904:0620/105622.463:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 10:58:14.50 [4912:4904:0620/105814.509:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 11:00:33.12 [4912:4904:0620/110033.120:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 11:05:38.78 [4912:4904:0620/110538.777:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 11:08:14.51 [4912:4904:0620/110814.511:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 11:12:18.23 [4912:4904:0620/111218.231:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 20, 2018 11:18:14.51 [4912:4904:0620/111814.518:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 11:28:14.52 [4912:4904:0620/112814.520:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 11:38:14.51 [4912:4904:0620/113814.516:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 11:48:14.55 [4912:4904:0620/114814.520:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 11:58:14.51 [4912:4904:0620/115814.517:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 12:08:14.52 [4912:4904:0620/120814.521:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 12:18:14.54 [4912:4904:0620/121814.524:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 20, 2018 12:59:43.25 [4912:4904:0620/125941.834:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jun 30, 2018 10:57:30.26 NEW SESSION
+Jun 30, 2018 10:57:30.26 [5840:264:0630/105730.230:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jun 30, 2018 10:57:32.46 [5840:888:0630/105732.465:ERROR:component_installer.cc(324)] Failed to read manifest or verify installation for CRLSet (C:\Users\dell\AppData\Local\Google\Chrome\User Data\CertificateRevocation\4527).: The system cannot find the file specified. (0x2)
+Jun 30, 2018 13:37:04.38 Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+Jun 30, 2018 13:37:04.55 [5840:264:0630/133704.386:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 30, 2018 14:01:57.73 [5840:748:0630/140157.734:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+
+Jun 30, 2018 15:31:34.87 NEW SESSION
+Jun 30, 2018 15:31:34.87 [2904:7840:0630/153134.868:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jun 30, 2018 16:03:09.20 Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+Jun 30, 2018 16:03:11.24 [2904:7840:0630/160304.708:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jun 30, 2018 16:22:48.70 [2904:7840:0630/162248.700:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:22:49.54 [2904:7840:0630/162249.544:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:22:52.99 [2904:7840:0630/162252.995:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 16:22:54.32 [2904:7840:0630/162254.327:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:22:56.68 [2904:7840:0630/162256.683:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:23:00.11 [2904:7840:0630/162300.111:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 16:23:01.79 [2904:7840:0630/162301.799:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 16:23:06.48 [2904:7840:0630/162306.480:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 16:24:25.97 [2904:7840:0630/162425.978:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:24:28.11 [2904:7840:0630/162428.114:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 16:24:29.06 [2904:7840:0630/162429.066:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:29:59.09 [2904:7840:0630/162959.096:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:00.72 [2904:7840:0630/163000.729:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:02.36 [2904:7840:0630/163002.361:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:04.00 [2904:7840:0630/163004.003:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:05.63 [2904:7840:0630/163005.635:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:07.30 [2904:7840:0630/163007.301:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:08.93 [2904:7840:0630/163008.933:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:10.58 [2904:7840:0630/163010.581:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:12.25 [2904:7840:0630/163012.253:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:13.89 [2904:7840:0630/163013.897:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:15.53 [2904:7840:0630/163015.530:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:17.16 [2904:7840:0630/163017.162:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:18.79 [2904:7840:0630/163018.794:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:20.44 [2904:7840:0630/163020.442:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:22.07 [2904:7840:0630/163022.074:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:23.70 [2904:7840:0630/163023.706:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:25.33 [2904:7840:0630/163025.338:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:26.97 [2904:7840:0630/163026.978:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:28.61 [2904:7840:0630/163028.612:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:30.25 [2904:7840:0630/163030.257:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:31.92 [2904:7840:0630/163031.921:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:33.55 [2904:7840:0630/163033.553:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:35.18 [2904:7840:0630/163035.185:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:36.81 [2904:7840:0630/163036.817:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:38.44 [2904:7840:0630/163038.449:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:40.08 [2904:7840:0630/163040.085:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:41.72 [2904:7840:0630/163041.729:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:43.36 [2904:7840:0630/163043.361:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:44.99 [2904:7840:0630/163044.994:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:46.63 [2904:7840:0630/163046.638:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:48.27 [2904:7840:0630/163048.272:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:49.90 [2904:7840:0630/163049.904:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:51.54 [2904:7840:0630/163051.548:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:53.18 [2904:7840:0630/163053.180:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:54.81 [2904:7840:0630/163054.812:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:56.46 [2904:7840:0630/163056.460:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:58.09 [2904:7840:0630/163058.092:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:30:59.72 [2904:7840:0630/163059.725:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:31:01.35 [2904:7840:0630/163101.357:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 16:31:03.01 [2904:7840:0630/163102.989:ERROR:latency_info.cc(164)] Display::DrawAndSwap, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 18:58:00.59 [2904:7840:0630/185800.582:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 19:01:48.53 [2904:7840:0630/190148.531:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:01:50.21 [2904:7840:0630/190150.216:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:01:51.81 [2904:7840:0630/190151.816:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:01:53.50 [2904:7840:0630/190153.500:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:01:55.11 [2904:7840:0630/190155.114:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:01:56.79 [2904:7840:0630/190156.799:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:01:58.45 [2904:7840:0630/190158.447:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jun 30, 2018 19:02:00.12 [2904:7840:0630/190200.127:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:02:01.81 [2904:7840:0630/190201.811:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:02:03.44 [2904:7840:0630/190203.443:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:02:05.12 [2904:7840:0630/190205.127:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:02:07.14 [2904:7840:0630/190207.143:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jun 30, 2018 19:06:33.11 [2904:7840:0630/190633.116:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+
+Jul 02, 2018 11:56:44.47 NEW SESSION
+Jul 02, 2018 11:56:44.47 [8280:5152:0702/115644.271:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
+Jul 02, 2018 12:14:13.68 Unable to read VR Path Registry from C:\Users\dell\AppData\Local\openvr\openvrpaths.vrpath
+Jul 02, 2018 12:14:16.48 [8280:5152:0702/121413.683:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:14:38.86 [8280:5152:0702/121438.868:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:15:27.36 [8280:5152:0702/121527.366:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:17:05.89 [8280:5152:0702/121705.895:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:19:56.76 [8280:5152:0702/121956.765:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:25:22.50 [8280:5152:0702/122522.502:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:35:22.50 [8280:5152:0702/123522.505:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:45:22.50 [8280:5152:0702/124522.506:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 12:55:22.51 [8280:5152:0702/125522.510:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 13:05:22.52 [8280:5152:0702/130522.525:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 13:15:22.53 [8280:5152:0702/131522.534:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 13:25:22.53 [8280:5152:0702/132522.537:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 13:35:22.55 [8280:5152:0702/133522.552:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 13:45:22.55 [8280:5152:0702/134522.550:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 13:55:22.56 [8280:5152:0702/135522.567:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+Jul 02, 2018 14:05:22.57 [8280:5152:0702/140522.573:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+Jul 03, 2018 12:27:35.84 NEW SESSION
+Jul 03, 2018 12:27:35.84 [3220:5608:0703/122735.843:ERROR:install_util.cc(589)] Unable to create registry key HKLM\SOFTWARE\Policies\Google\Chrome for reading result=2
